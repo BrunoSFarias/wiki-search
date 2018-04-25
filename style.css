@@ -1,0 +1,57 @@
+body{
+font-family:'Fira+Sans', Time News Roman;
+background-image: url(http://dailyjag.com/wp-content/uploads/2012/07/Wikipedia-Logo.png);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position: 49.5% 8%;
+
+}
+
+img{
+position:relative;
+top:85%;
+left:85%;
+height:28%;
+width:28%;
+border-radius:15px;
+margin-bottom:25px;
+}
+
+.random {
+position: absolute;
+margin-top: -150px;
+margin-left:944px;
+font-size: 24px;
+color: #FFFFFF;
+font-weight: bold;
+text-shadow: 2px 0px 1px #000000;
+padding: 5px;
+}
+.form-control{
+font-weight: bold;
+font-size:16px !important;
+}
+a{
+color: #000000;
+}
+a:hover {
+  color: #FFF !important;
+}
+
+.btn2{
+margin:6px;
+height:18;
+width:15%;
+font-size:24px !important;
+}
+
+.result{
+text-align:left;
+}
+
+.special{
+border-style: outset;
+border-radius:15px;
+background: #FFFFFF;
+}
+
